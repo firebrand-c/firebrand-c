@@ -1,4 +1,4 @@
-<img src="assets/scenic-route.svg" width="100%" alt="C. Guz. I took the scenic route. Founder and operator. Self taught. Still curious.">
+<img src="assets/scenic-route.svg" width="100%" alt="C. I took the scenic route. Founder and operator. Self taught. Still curious.">
 
 <br>
 

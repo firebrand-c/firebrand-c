@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">C. Guz. I took the scenic route.</title>
+  <title id="title">C. I took the scenic route.</title>
   <desc id="desc">An editorial title card in warm paper, charcoal and oxblood, with a wandering line that finds its way forward.</desc>
   <rect width="1200" height="360" fill="#F5F2EB"/>
   <rect x="0.5" y="0.5" width="1199" height="359" fill="none" stroke="#E2DDD4"/>
   <g fill="#282927" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.5">
-    <text x="52" y="47">C. GUZ</text>
+    <text x="52" y="47">C.</text>
     <text x="1148" y="47" text-anchor="end" fill="#666960">ISTANBUL</text>
   </g>
   <path d="M52 69H1148" stroke="#D7D3C9"/>
