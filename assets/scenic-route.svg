@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">C. Guz. I took the scenic route.</title>
+  <desc id="desc">An editorial title card in warm paper, charcoal and oxblood, with a wandering line that finds its way forward.</desc>
+  <rect width="1200" height="360" fill="#F5F2EB"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" fill="none" stroke="#E2DDD4"/>
+  <g fill="#282927" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.5">
+    <text x="52" y="47">C. GUZ</text>
+    <text x="1148" y="47" text-anchor="end" fill="#666960">ISTANBUL</text>
+  </g>
+  <path d="M52 69H1148" stroke="#D7D3C9"/>
+  <g fill="#282927" font-family="Georgia, 'Times New Roman', serif" font-size="83" letter-spacing="-3">
+    <text x="48" y="168">I took the</text>
+    <text x="48" y="258" font-style="italic" fill="#793A40">scenic route.</text>
+  </g>
+  <g fill="none" stroke="#793A40" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M722 246C668 240 671 171 717 171C777 171 780 260 833 253C893 245 896 113 840 116C789 119 807 207 867 207C920 207 915 142 961 143C1005 144 994 213 1040 204C1065 199 1075 161 1110 145"/>
+    <path d="M1091 143L1112 144L1106 166"/>
+  </g>
+  <circle cx="722" cy="246" r="5" fill="#793A40"/>
+  <g fill="#666960" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">
+    <text x="52" y="320">FOUNDER &amp; OPERATOR</text>
+    <text x="1148" y="320" text-anchor="end">SELF TAUGHT. STILL CURIOUS.</text>
+  </g>
+</svg>
