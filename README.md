@@ -4,7 +4,7 @@
 
 I'm a **systems thinker and operator**. I build companies, software and systems that buy human time back.
 
-I studied psychology. The rest I learned by building, asking, and getting stuck in. I tend to follow a problem past the point where it fits neatly into a job title.
+I studied psychology. The rest I learned by building, asking, and getting stuck in. I follow a problem past the point where it fits neatly into a job title.
 
 ### I kept rebuilding the context. So I built the tool.
 
@@ -29,7 +29,9 @@ Talent questions led into role fit, resources and decision-making. Worked with t
 
 ### On my desk
 
-Codex · v0 ♥ · Notion · a question that was supposed to be a quick one
+Codex · v0 ♥ · Notion
+
+Building with the judgment to turn a problem into working software.
 
 I like people who care about what they're building, share what they know, and can change their minds. I try to be one of them.
 
