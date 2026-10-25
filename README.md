@@ -1,42 +1,42 @@
-<a href="https://v0-c-me.vercel.app/?utm_source=github&amp;utm_medium=profile"><img src="assets/scenic-route.svg?v=3" width="100%" alt="C. I took the scenic route. Systems thinker and operator. Self taught. Still curious."></a>
+<a href="https://v0-c-me.vercel.app/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=operator_desk_20261025&amp;utm_content=banner#start">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/operator-desk-dark.svg">
+    <img src="assets/operator-desk-light.svg" width="100%" alt="C. Guz. Systems thinker and operator. What’s stuck? An open working file.">
+  </picture>
+</a>
 
-### Hi, I'm C. 👋
+I'm C., a **systems thinker and operator**. If the problem doesn't fit neatly into one role, we'll probably have something to talk about.
 
-I'm a **systems thinker and operator**. I build companies, software and systems that buy human time back.
+I pick up context quickly, ask a lot of questions, and work across people, product and the business around them. My degree is in psychology. Most of what came next, I taught myself by building, asking questions and taking responsibility for the work.
 
-I studied psychology. The rest I learned by building, asking, and getting stuck in. I follow a problem past the point where it fits neatly into a job title.
+### Currently on my desk
 
-### I kept rebuilding the context. So I built the tool.
+**[H//DTC](https://hiredtctalent.org/?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=hdtc)**. I'm a precision headhunter for ecommerce founders, working on the hires they really need to get right. The business reached five figures in revenue in under three months.
 
-I run **[H//DTC](https://hiredtctalent.org/?utm_source=github&utm_medium=profile)**, a precision headhunting and advisory business for ecommerce founders. It reached five figures in revenue in under three months.
+Doing the searches myself means I can see where the work gets harder than it needs to be. So I'm building the tools I wish I'd had, to buy human time back. Using them in my own business is a fairly honest test of whether they help.
 
-I also built the recruiting platform I use on live searches. AI-assisted job descriptions and client onboarding turn the starting context into a structured brief. Candidate extraction keeps fit and evidence together. Presentation drafting brings that context into the next conversation, with human review before the work moves forward.
+[What I'm building ↗](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=building#building) &nbsp; · &nbsp; [Two free hiring tools ↗](https://hiredtctalent.org/resources?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=tools)
 
-Building it and running the business happen together. The next useful change comes from the work itself.
+### A few places I've been useful
 
-[Inside the workflow ↗](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile#software)
+**[01 / n8n. The hire that wasn't happening.](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=n8n#n8n)**
 
-### A few stops along the way
+Five design hires in four months, after six months without one. I interviewed every member of the design team and built the design hiring playbook from zero with the Product Design Lead: evaluation criteria, interview structures, signal libraries and the assessment process. The incoming RPO received the playbook and Loom walkthroughs, with the judgment behind the process still attached.
 
-**[Octopus · Founder & CEO · 2023–2025](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile#octopus)**<br>
-The AI HRTech company I took from an idea to early revenue. Recruited an AI engineer as CTO and led nine people across five time zones. We assessed 1,000+ candidates, helped employers make decisions 65% faster, and ran a six-month beta with 100+ recruiters. A company was my classroom.
+**[02 / Paper Plan. The problem underneath the hiring request.](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=paper_plan#paper-plan)**
 
-**[n8n · Senior Talent Acquisition Partner / RPO · 2026](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile#built)**<br>
-Five design hires in four months after six months without one. Worked with the Product Design Lead and team to make hiring signals explicit, rebuild assessment and leave the next recruiter a function they could run.
+Approximately $12,700 saved each month through corrective action on mishires and software costs. I joined as Head of Talent and took on Chief of Staff responsibilities, working with the CEO on role fit, ownership, priorities and resource allocation through a leadership transition.
 
-**[Paper Plan · Head of Talent → Chief of Staff · 2025](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile#built)**<br>
-Talent questions led into role fit, resources and decision-making. Worked with the CEO on changes that saved $12,700 a month. The remit grew because the problem crossed the org chart.
+**[03 / Octopus. From discovery to first paying customers.](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=octopus#octopus)**
 
-### On my desk
-
-Codex · v0 ♥ · Notion
-
-Building with the judgment to turn a problem into working software.
-
-I like people who care about what they're building, share what they know, and can change their minds. I try to be one of them.
+I recruited an AI engineer as CTO and led nine people across five time zones. I owned product, GTM, hiring, finance, operations and fundraising. We assessed 1,000+ candidates, helped employers make decisions 65% faster, and ran a six month beta with 100+ recruiters. Octopus is now closed. H//DTC is a separate business.
 
 ---
 
-I'd like to work closely with a founder on the people, product and operating questions that keep a company from moving. If that sounds like the work in front of you, **[tell me what you're building](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile#next)**.
+**Things I keep close:** Codex · v0 ♥ · Notion
 
-[The scenic route](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile) &nbsp; / &nbsp; [C. on a page](https://v0-c-me.vercel.app/c-on-a-page?utm_source=github&utm_medium=profile) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/cgenesis/)
+I'm building, learning, and open to a team with an operating problem worth committing to, and the trust to take real ownership of it. Tell me what's going on and where it gets stuck. We can start there.
+
+**[What's on your mind? ↗](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=conversation#about)**
+
+[Open the working file](https://v0-c-me.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=portfolio#start) &nbsp; / &nbsp; [C. on a page](https://v0-c-me.vercel.app/c-on-a-page?utm_source=github&utm_medium=profile&utm_campaign=operator_desk_20261025&utm_content=cv) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/cgenesis/)
